@@ -1,0 +1,67 @@
+Testing Assignment 1
+---------------------------------
+SubPalindrome
+---------------------------------
+Enter a string of size 1-10 characters: A2 m;an00
+Following substring(s) of the string 'A2 m;an00' are palindrome(s): 'Ama', 
+
+
+
+Enter a string of size 1-10 characters: Bottom;;
+Following substring(s) of the string 'Bottom;;' are palindrome(s): 'otto', 'tt', 
+
+
+
+Enter a string of size 1-10 characters: no888
+Following substring(s) of the string 'no888' are palindrome(s): 
+
+---------------------------------
+ValidDeclaration
+---------------------------------
+Enter a string: int yeet;
+'int yeet;' is a valid Java variable definition.
+
+
+
+Enter a string: double    number   ; 
+'double    number   ; ' is a valid Java variable definition.
+
+
+
+Enter a string: int _;
+'int _;' is not a valid Java variable definition.
+
+
+
+Enter a string: byte _binary;
+'byte _binary;' is a valid Java variable definition.
+
+
+
+Enter a string: no yes;
+'no yes;' is not a valid Java variable definition.
+
+---------------------------------
+Decipher
+---------------------------------
+Enter a cipher string: ifani
+Enter a shift length: 5
+Plain text for shift: DAVID
+Plain text for substitute: CLAHC
+
+
+
+Enter a cipher string: batzb
+Enter a shift length: 5
+Plain text for shift: WVOUW
+Plain text for substitute: DAVID
+
+
+
+Enter a cipher string: ifani
+Enter a shift length: 10
+Plain text for shift: YVQDY
+Plain text for substitute: CLAHC
+s
+
+

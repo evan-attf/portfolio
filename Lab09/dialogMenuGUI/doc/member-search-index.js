@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cp213","c":"TextFrame","l":"DESCRIPTION"},{"p":"cp213","c":"TextFrame","l":"EXTENSIONS"},{"p":"cp213","c":"TextFrame","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"cp213","c":"TextFrame","l":"TextFrame(String)","url":"<init>(java.lang.String)"}]
