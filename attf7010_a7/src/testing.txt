@@ -1,0 +1,175 @@
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Evan Attfield
+ID:      180817010
+Email:   attf7010@mylaurier.ca
+Version: 2018/11/15
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Enter a string to test: 1234567890
+The string is all digits
+
+
+
+Enter a string to test: 1223f
+The string contains non-digits
+
+
+
+Enter a string to test: 123i098m456y
+The string contains non-digits
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+Enter a string to test: David Brown
+The string contains non-letters
+
+
+
+Enter a string to test: NASA
+The string is all letters
+
+
+
+Enter a string to test: 123onetwothree
+The string contains non-letters
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+String to search: Gozer
+String to search for: z
+'z' is found at location 2 in 'Gozer'
+
+
+
+String to search: Gozer
+String to search for: oze
+'oze' is found at location 1 in 'Gozer'
+
+
+
+String to search: Gozer
+String to search for: a
+'a' is found at location -1 in 'Gozer'
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+First string: running
+Second string: ruminating
+Common ending: ing
+
+
+
+First string: abcd
+Second string: abcd
+Common ending: abcd
+
+
+
+First string: 345
+Second string: 12345
+Common ending: 345
+
+
+
+First string: abcD
+Second string: abcd
+Common ending: 
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Enter an ISBN: 978-3-16-148410-0
+978-3-16-148410-0 is a valid ISBN
+
+
+
+Enter an ISBN: 978-3-16-14841-0
+978-3-16-14841-0 is not a valid ISBN
+
+
+
+Enter an ISBN: 978-3160-148410-0
+978-3160-148410-0 is not a valid ISBN
+
+
+
+Enter an ISBN: 978-3-1-14841-0-0
+978-3-1-14841-0-0 is not a valid ISBN
+
+
+
+Enter an ISBN: 977-3-16-148410-0
+977-3-16-148410-0 is not a valid ISBN
+
+
+
+Enter an ISBN: 978-3-1A-148410-0
+978-3-1A-148410-0 is a valid ISBN
+
+
+
+Enter an ISBN: 978--312-148410-0 
+978--312-148410-0  is not a valid ISBN
+
+
+
+Enter an ISBN: 978-3-12148410--0
+978-3-12148410--0 is not a valid ISBN
+
+
+
+Enter an ISBN: -978-3-12148410-0
+-978-3-12148410-0 is not a valid ISBN
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+Enter phone number: 1-800-GOT-JUNK
+Digits: 1-800-468-5865
+
+
+
+Enter phone number: 514-AUTOBUS
+Digits: 514-2886287
+
+
+
+Enter phone number: 519-GRT-STOP
+Digits: 519-478-7867
+
+
+
+Enter phone number: #YEET
+Digits: #9338
+-------------------------------------------------------
+Task 7
+-------------------------------------------------------
+Enter a string: Bus
+Plural: Buses
+
+
+
+Enter a string: Bush
+Plural: Bushes
+
+
+
+Enter a string: Stitch
+Plural: Stitches
+
+
+
+Enter a string: tray
+Plural: trays
+
+
+
+Enter a string: toy
+Plural: toys
+
+
+
+Enter a string: try
+Plural: tries
+-------------------------------------------------------

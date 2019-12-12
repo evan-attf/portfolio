@@ -1,0 +1,184 @@
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Evan Attfield
+ID:      180817010
+Email:   attf7010@mylaurier.ca
+Version: 2018/09/01
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Balloons collected: 0
+Bonus points earned: 0
+
+
+Balloons collected: 1
+Bonus points earned: 10
+
+
+Balloons collected: 2
+Bonus points earned: 25
+
+
+Balloons collected: 5
+Bonus points earned: 50
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+Lightbulb wattage (w): 15
+Brightness: 125 lumens
+
+
+Lightbulb wattage (w): 25
+Brightness: 215 lumens
+
+
+Lightbulb wattage (w): 40
+Brightness: 500 lumens
+
+
+Lightbulb wattage (w): 60
+Brightness: 880 lumens
+
+
+Lightbulb wattage (w): 75
+Brightness: 1000 lumens
+
+
+Lightbulb wattage (w): 100
+Brightness: 1675 lumens
+
+
+Lightbulb wattage (w): 50
+Invalid wattage
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+Enter Player 1 choice (R, P, or S): R
+Enter Player 2 choice (R, P, or S): R
+A tie!
+
+
+Enter Player 1 choice (R, P, or S): R
+Enter Player 2 choice (R, P, or S): P
+Paper beats rock! Player 2 wins.
+
+
+Enter Player 1 choice (R, P, or S): R
+Enter Player 2 choice (R, P, or S): S
+Rock beats scissors! Player 1 wins.
+
+
+Enter Player 1 choice (R, P, or S): P
+Enter Player 2 choice (R, P, or S): R
+Paper beats rock! Player 1 wins.
+
+
+Enter Player 1 choice (R, P, or S): P
+Enter Player 2 choice (R, P, or S): P
+A tie!
+
+
+Enter Player 1 choice (R, P, or S): P
+Enter Player 2 choice (R, P, or S): S
+Scissors beats paper! Player 2 wins.
+
+
+Enter Player 1 choice (R, P, or S): S
+Enter Player 2 choice (R, P, or S): R
+Rock beats scissors! Player 2 wins.
+
+
+Enter Player 1 choice (R, P, or S): S
+Enter Player 2 choice (R, P, or S): P
+Scissors beat paper! Player 1 wins.
+
+
+Enter Player 1 choice (R, P, or S): S
+Enter Player 2 choice (R, P, or S): S
+A tie!
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+Enter first colour: red
+Enter second colour: red
+No secondary colour
+
+
+Enter first colour: red
+Enter second colour: blue
+Secondary colour is purple
+
+
+Enter first colour: red
+Enter second colour: yellow
+Secondary colour is orange
+
+
+Enter first colour: blue
+Enter second colour: red
+Secondary colour is purple
+
+
+Enter first colour: blue
+Enter second colour: blue
+No secondary colour
+
+
+Enter first colour: blue
+Enter second colour: yellow
+Secondary colour is green
+
+
+Enter first colour: yellow
+Enter second colour: red
+Secondary colour is orange
+
+
+Enter first colour: yellow
+Enter second colour: blue
+Secondary colour is green
+
+
+Enter first colour: yellow
+Enter second colour: yellow
+No secondary colour
+
+
+Enter first colour: random
+Enter second colour: stuff
+No secondary colour
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Length of call (minutes): 120
+Hour of call (24 hour format): 4
+Total price of call: $4.32
+
+
+Length of call (minutes): 120
+Hour of call (24 hour format): 12
+Total price of call: $8.64
+
+
+Length of call (minutes): 120
+Hour of call (24 hour format): 20
+Total price of call: $6.48
+
+
+Length of call (minutes): 15
+Hour of call (24 hour format): 4
+Total price of call: $0.60
+
+
+Length of call (minutes): 15
+Hour of call (24 hour format): 12
+Total price of call: $1.20
+
+
+Length of call (minutes): 15
+Hour of call (24 hour format): 20
+Total price of call: $0.90
+-------------------------------------------------------

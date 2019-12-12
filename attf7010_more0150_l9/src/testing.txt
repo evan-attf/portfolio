@@ -1,0 +1,48 @@
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Evan Attfield
+ID:      180817010
+Email:   attf7010@mylaurier.ca
+Version: 2018/08/20
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Find record n
+Enter a record number: 3
+['14567,Jane,White,900.00,1998-07-01']
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+Smallest: 1
+Largest: 13
+Total: 113.00
+Average: 7.06
+-------------------------------------------------------
+Task 10
+-------------------------------------------------------
+file 'words.txt' open for reading
+Word to count: Exercise
+'Exercise' appears 3 time(s)
+
+
+
+file 'words.txt' open for reading
+Word to count: Canada
+'Canada' appears 1 time(s)
+
+
+
+file 'words.txt' open for reading
+Word to count: Yeet
+'Yeet' appears 0 time(s)
+-------------------------------------------------------
+Task 12
+-------------------------------------------------------
+file 'words.txt' open for reading
+'Hello' is the first shortest word
+-------------------------------------------------------
+Task 14
+-------------------------------------------------------
+Copying 'words.txt' to 'new_words.txt'
+-------------------------------------------------------
